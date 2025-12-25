@@ -1,2 +1,7 @@
 # Practicing
-Practicing HTML + CSS
+Practicing HTML + CSS +  JavaScript
+
+Drop Down Menu -- https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_dropdown_navbar_click
+
+
+
